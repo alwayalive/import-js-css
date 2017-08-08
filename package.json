@@ -1,19 +1,8 @@
 {
   "name": "import-js-css",
-  "version": "1.0.0",
-  "description": "加载不支持CommonJS规范的js/css外部资源",
+  "version": "1.0.3",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/alwayalive/import-js-css.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/alwayalive/import-js-css/issues"
-  },
-  "homepage": "https://github.com/alwayalive/import-js-css#readme"
+  "repository": "https://github.com/alwayalive/import-js-css",
+  "author": "alwayalive <alwayalive@163.com>",
+  "license": "MIT"
 }
