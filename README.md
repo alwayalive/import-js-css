@@ -5,7 +5,7 @@ Getting started
 ---------------
 使用npm安装`import-js-css`
 ```shell
-npm install import-js-css
+npm install --save import-js-css
 ```
 
 ### API
